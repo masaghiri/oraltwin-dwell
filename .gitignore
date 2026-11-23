@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+# Never commit images or participant data.
+data/
+*.jpg
+*.jpeg
+*.png
+*.stl
+*.ply
